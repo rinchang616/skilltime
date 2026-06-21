@@ -1,7 +1,7 @@
 {
   "latest": "26.06.22.0430",
-  "download_url": "https://taiwanework.com/skilltimer/download",
-  "notice_html_url": "https://taiwanework.com/skilltimer/notice.html",
+  "download_url": "https://rinchang.tw/skt",
+  "notice_html_url": "https://raw.githubusercontent.com/rinchang616/skilltime/refs/heads/main/notice.html",
   "notes": "首次發布。",
   "skill_presets": [
     {"name": "楓葉祝福", "cd": 300,  "pre": 15,  "alert": "both",
