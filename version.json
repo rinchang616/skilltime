@@ -1,0 +1,26 @@
+{
+  "latest": "26.06.22.0430",
+  "download_url": "https://taiwanework.com/skilltimer/download",
+  "notice_html_url": "https://taiwanework.com/skilltimer/notice.html",
+  "notes": "首次發布。",
+  "skill_presets": [
+    {"name": "楓葉祝福", "cd": 300,  "pre": 15,  "alert": "both",
+     "image": "楓葉祝福.png"},
+    {"name": "神聖之火", "cd": 300,  "pre": 15,  "alert": "both",
+     "image": "神聖之火.png"},
+    {"name": "魔心防禦", "cd": 360,  "pre": 15,  "alert": "both",
+     "image": "魔心防禦.png"},
+    {"name": "速度激發", "cd": 300,  "pre": 15,  "alert": "both",
+     "image": "速度激發.png"},
+    {"name": "幸運術", "cd": 300,  "pre": 15,  "alert": "both",
+     "image": "幸運術.png"},
+    {"name": "會心之眼", "cd": 300,  "pre": 15,  "alert": "both",
+     "image": "會心之眼.png"},
+    {"name": "替身術", "cd": 60,  "pre": 15,  "alert": "both",
+     "image": "替身術.png"},
+    {"name": "力量消除", "cd": 300,  "pre": 15,  "alert": "both",
+     "image": "力量消除.png"},
+    {"name": "魔防消除", "cd": 300,  "pre": 15,  "alert": "both",
+     "image": "魔防消除.png"},  
+]
+}
