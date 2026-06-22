@@ -1,6 +1,6 @@
 {
-  "latest": "26.06.22.0430",
+  "latest": "26.06.22.1520",
   "download_url": "https://rinchang.tw/skt",
   "notice_html_url": "https://raw.githubusercontent.com/rinchang616/skilltime/refs/heads/main/notice.html",
-  "notes": "修正部分漏洞。"
+  "notes": "本次更新：\n- 可自訂技能語音提醒內容\n- 新增指定視窗前景偵測，避免打字誤觸\n- 修正圖片顯示與公告載入問題"
 }
